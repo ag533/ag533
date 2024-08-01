@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abhishek Gahlawat
 - 👀 I’m interested in learning new stack and happy to help on interesting projects
-- 🌱 I’m currently learning Python and Go
-- 💞️ I’m looking to collaborate on Java, JS, React, Typescript, NodeJS, HTML and CSS
+- 🌱 I’m currently learning Go
+- 💞️ I’m looking to collaborate on Java, Python, JS, React, Typescript, NodeJS, HTML and CSS
 - 📫 How to reach me - message me on instagram - @rightnow_shek or leave a mail at abhishekgahlawatoo7@gmail.com
 
 <!---
